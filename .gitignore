@@ -68,7 +68,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # EXE folder (built game)
-/EXE/
+#/EXE/
 
 # Additional Unity files
 *.pidb
